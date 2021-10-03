@@ -1,0 +1,6 @@
+{
+    "imports": {
+        "test/assert": "https://deno.land/std@0.109.0/testing/asserts.ts",
+        "test/bench": "https://deno.land/std@0.109.0/testing/bench.ts"
+    }
+}
