@@ -2,6 +2,6 @@
     "compilerOptions": {
         "experimentalDecorators": true,
         "strict": true,
-        "lib": ["es6", "deno.ns", "dom"]
+        "lib": ["es6", "deno.ns"]
     }
 }
