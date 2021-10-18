@@ -8,3 +8,7 @@ const text = Deno.readTextFile('/path/to/file.txt');
 
 console.log(marker(text));
 ```
+
+## TODO:
+- [ ] implement list nesting
+- [ ] implement HTML parsing
